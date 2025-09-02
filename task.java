@@ -1,3 +1,6 @@
+// Mehroj Majidov 230061
+// Tuesday 09:00 AM
+
 // 1. Main Function
 
 1. Answered.
